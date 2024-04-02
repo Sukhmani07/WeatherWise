@@ -37,7 +37,7 @@ To run WeatherWise locally on your machine:
 
 **Contributors**
 
-Sukhmani Kaur
-sukhmanikaur303@gmail.com
+- Sukhmani Kaur
+- sukhmanikaur303@gmail.com
 
 If you'd like to contribute to WeatherWise, feel free to reach out to me!
