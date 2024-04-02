@@ -17,10 +17,10 @@ WeatherWise is a web-based weather forecast application that provides accurate a
 **Tech Stack**
 
 WeatherWise is built using the following technologies:
-HTML
-CSS
-JavaScript
-REST API for fetching weather data
+- HTML
+- CSS
+- JavaScript
+- REST API for fetching weather data
 
 **Usage**
 
